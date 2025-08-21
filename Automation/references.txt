@@ -1,0 +1,3 @@
+https://python.langchain.com/docs/integrations/document_loaders/youtube_transcript/
+https://youtube.com/playlist?list=PLZ2ps__7DhBaAR2w3oX5yMIQA8pUo5zt2&feature=shared
+https://youtube.com/playlist?list=PLyqSpQzTE6M9LibNqhhCYLDvfVGhcRDN4&feature=shared
